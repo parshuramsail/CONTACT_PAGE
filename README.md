@@ -6,4 +6,4 @@
 * Google fonts
 
 ## Result
-![](CONTACT_PAGE/result.png)
+![](result.png)
